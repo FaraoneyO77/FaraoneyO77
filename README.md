@@ -38,4 +38,4 @@ Sistem mimarisi, çekirdek seviyesinde güvenlik ve otomasyon süreçlerine odak
 - **2026:** DGS ile akademik geçişi tamamlamak ve İngilizce yetkinliğini (B2+) profesyonel seviyeye taşımak.
 - **Vizyon:** Kritik altyapıların güvenliğini sağlayan, düşük seviyeli sistem mimarisine hakim bir **Security Architect** olmak.
 
-📫 **Bağlantı Kur:** [LinkedIn Profil Linkin] | 📍 İstanbul, TR
+📫 **Bağlantı Kur:** https://www.linkedin.com/in/cihan-dik/ | 📍 İstanbul, TR
